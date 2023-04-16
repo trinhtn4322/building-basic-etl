@@ -21,14 +21,14 @@
 - The first step I will use Jupyter Notebook to check what is this data set has?
 - Then I will conduct analysis and clean it
 
-# Create a simple pipeline
+# [Create a simple pipeline](./Create a simple pipeline)
 - Create Docker-compose.yaml to run postgres and pgadmin
 - Connecting pgAdmin and Postgres
 - Create engine in Jupyter notebook and connect to prostgresql
 - Build a simple pipline load data to PgAdmin
 - Finally, converting the Jupyter notebook to a Python script
 
-# Building a pipeline to load data from link to datalake
+# [Building a pipeline to load data from link to datalake](./Load data from link to datalake)
 
 - The pipeline is built using the Prefect library, which provides a framework for building, scheduling, and monitoring data workflows. The pipeline has three main tasks:
 
