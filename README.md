@@ -22,6 +22,7 @@
 - Then I will conduct analysis and clean it
 
 # [Create a simple pipeline](./Create a simple pipeline)
+
 - Create Docker-compose.yaml to run postgres and pgadmin
 - Connecting pgAdmin and Postgres
 - Create engine in Jupyter notebook and connect to prostgresql
