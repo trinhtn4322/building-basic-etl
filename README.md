@@ -21,7 +21,7 @@
 - The first step I will use Jupyter Notebook to check what is this data set has?
 - Then I will conduct analysis and clean it
 
-# [Create a simple pipeline](./Create a simple pipeline)
+# [Create a simple pipeline](./Check-data)
 
 - Create Docker-compose.yaml to run postgres and pgadmin
 - Connecting pgAdmin and Postgres
