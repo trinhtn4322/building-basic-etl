@@ -26,6 +26,19 @@
 
 - The pipeline is built using the Prefect library, which provides a framework for building, scheduling, and monitoring data workflows. The pipeline has three main tasks:
 
+# Check data
+- Use jupyter to look at the data sample and process the missing types then create a small ETL to automatically load the data.
+- See more in the file jupyter
+- Connect to local host
+
+localhost:8080
+
+--create new server--
+![image](https://user-images.githubusercontent.com/115331941/232327545-c087b781-d096-43fb-862a-d38ad8f1275a.png)
+
+- Can use PgAdmin to access data using SQL
+![image](https://user-images.githubusercontent.com/115331941/232327773-fe9546af-4dfc-47bf-bee8-9f57a5eaa93a.png)
+
 - extract: reads data from the CSV file at the specified URL and returns a Pandas DataFrame.
 - transform: cleans and manipulates the DataFrame returned by extract.
 - load: loads the transformed data into HDFS in Parquet format using Apache Spark.
