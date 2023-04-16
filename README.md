@@ -5,7 +5,7 @@
 
 # building-basic-etl
 - ETL stands for Extract, Transform, and Load. It is a process used in data integration and data warehousing to extract data from one or more sources, transform it to fit business needs and load it into a target system, such as a data warehouse or a data lake.
-- sources, typically organized around specific business functions, such as sales, finance, or marketing. The data is cleaned, transformed, and formatted to fit the predefined schema of the warehouse, which is optimized for reporting and analytics. Data warehouses are typically used for storing historical data, and they are designed to support complex queries and analytics with high performance and reliability.
+- Data warehouses are typically used for storing historical data, and they are designed to support complex queries and analytics with high performance and reliability.
 - On the other hand, a data lake is a decentralized repository that stores both structured and unstructured data from different sources, without any predefined schema or structure. Data lakes are designed to store raw and unprocessed data at scale, and they are optimized for flexibility, agility, and exploration. Data lakes enable organizations to store all types of data in their original format, without the need for upfront transformation, which can be expensive and time-consuming. Data lakes are typically used for data exploration, data science, and machine learning.
 
 # Dataset
