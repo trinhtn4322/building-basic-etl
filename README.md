@@ -15,7 +15,8 @@
 - Source : https://opendata.hochiminhcity.gov.vn/
 - Link of the data : https://opendata.hochiminhcity.gov.vn/sites/default/files/DanhSachDaGiaiThe.csv
 
-# Check_data
+# [Check_data](./building-basic-etl/Check-data.md)
+
 - In this part, I will download a data sample
 - The first step I will use Jupyter Notebook to check what is this data set has?
 - Then I will conduct analysis and clean it
