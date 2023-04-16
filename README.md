@@ -1,3 +1,8 @@
+# Using Docker
+- This whole project is made based on Docker, pre-installed postgres, pgadmin, spark, hive, hadoop
+
+![image](https://user-images.githubusercontent.com/115331941/232332014-55aa0ace-0b19-44ae-84de-f7a2e35eb03c.png)
+
 # building-basic-etl
 - ETL stands for Extract, Transform, and Load. It is a process used in data integration and data warehousing to extract data from one or more sources, transform it to fit business needs and load it into a target system, such as a data warehouse or a data lake.
 - sources, typically organized around specific business functions, such as sales, finance, or marketing. The data is cleaned, transformed, and formatted to fit the predefined schema of the warehouse, which is optimized for reporting and analytics. Data warehouses are typically used for storing historical data, and they are designed to support complex queries and analytics with high performance and reliability.
